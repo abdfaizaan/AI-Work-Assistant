@@ -11,9 +11,8 @@
 - In the version one we are building this app to record and conver it to simple md document.
 - Record microsophone
 - Stop recording
-- Generate transcript
-- COnvert transcript to md
-- Save MD file locally
+- Save audio locally
+- Prepare audio for transcription
 
 ## What should version 2 be able to do?
 - Azure AI Speech
