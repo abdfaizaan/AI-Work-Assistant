@@ -3,8 +3,6 @@
 - During an investigation they focus on resolving the incident, not documenting each step. 
 - By the time documentation is required, many details are forgotten. 
 - AI Work Assistant captures speken resoining during troubleshooting and automatically converts it into structured technical documentation.
-- Scenario: A support engineer might identify an issue, try out few workarounds steps to resolve it and one of which would fix the issue, but later would fail to document all the tries he did. 
-- This app is a simple recording to document app where engineers while working on an issue start recording audio about what they are doing and then later the app would convert it into a documentation.
 
 ## Who would use it?
 - Cloud Support enineers, CLoud Admin, Devops engineers, SRE, Developers, IT Admin. 
