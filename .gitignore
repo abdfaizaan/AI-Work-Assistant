@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Audio
+recordings/*.wav
+recordings/*.mp3
+
+# Output
+output/
+
+# OS
+Thumbs.ds
+.DS_Store
