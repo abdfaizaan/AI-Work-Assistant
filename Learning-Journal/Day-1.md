@@ -10,6 +10,8 @@ To create sample app.py and record.py modules for the app and test it locally.
 - git add .
 - git commit -m "Commit message"
 - git push
+- git fetch
+- git pull
 
 ## Notes: 
 
