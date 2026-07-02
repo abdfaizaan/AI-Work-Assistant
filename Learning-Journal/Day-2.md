@@ -1,8 +1,8 @@
 ## Today's Goal
 
-Understand Python classes using AudioRecorder class in our project.
-Learn Docker fundamentals.
-Revise AzureStorage topics.
+- Understand Python classes using AudioRecorder class in our project.
+- Learn Docker fundamentals.
+- Revise AzureStorage topics.
 
 ## What I learned?
 
